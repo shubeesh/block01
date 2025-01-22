@@ -1,28 +1,5 @@
-#left-column{
+#cat{
     float: left;
-    width: 33%;
-    border: 1px solid black;
-}
-
-#middle-column{
-    float: left;
-    width: 33%;
-    border: 1px solid black;
-}
-
-#right-column{
-    float: left;
-    width: 33%;
-    border: 1px solid black;
-}
-
-#footer{
-    clear: both;
-    width: 99.1%;
-    border: 2px solid black;
+    border: 1px solid deepskyblue;
     text-align: center;
-}
-
-#text{
-    background-color: yellow;
 }
